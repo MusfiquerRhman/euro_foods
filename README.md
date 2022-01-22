@@ -1,12 +1,12 @@
 # How to run the project
 
 To run this project first install the node dependencies by using 
-    ```bash
+    ```
     npm install 
     ```
 
 Then run the project by using this command
-    ```bash
+    ```
     npm start 
     ```
 
